@@ -1,0 +1,26 @@
+@import url();
+
+body {
+   background: #233329;
+   color: white;
+   text-align: center
+}
+
+.profile-img{
+  width: 50%;
+  border-radius: 50%;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.btn{
+  display: block;
+  color: black;
+  padding: 20px;
+  background: lightcyan;
+  margin: 16px;
+  box-shadow: 10px 10px grey;
+}
